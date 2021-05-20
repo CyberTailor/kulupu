@@ -1,0 +1,18 @@
+<!--
+	SPDX-License-Identifier: FSFAP
+	SPDX-FileCopyrightText: 2021 Anna "CyberTailor" <cyber@sysrq.in>
+-->
+<RCC>
+	<qresource prefix="/">
+		<file alias="main.qml">contents/ui/main.qml</file>
+		<file alias="LoginPage.qml">contents/ui/LoginPage.qml</file>
+		<file alias="TimelinePage.qml">contents/ui/TimelinePage.qml</file>
+		<file alias="TimelineItem.qml">contents/ui/TimelineItem.qml</file>
+		<file alias="TimelineHeader.qml">contents/ui/TimelineHeader.qml</file>
+		<file alias="TimelineFooter.qml">contents/ui/TimelineFooter.qml</file>
+		<file alias="TimelineCardHeader.qml">contents/ui/TimelineCardHeader.qml</file>
+		<file alias="TimelineCardHeaderNarrow.qml">contents/ui/TimelineCardHeaderNarrow.qml</file>
+		<file alias="TimelineCardButton.qml">contents/ui/TimelineCardButton.qml</file>
+		<file alias="UserAvatar.qml">contents/ui/UserAvatar.qml</file>
+	</qresource>
+</RCC>
